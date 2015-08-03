@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\bin\Debug\ExceptionsHandlingExc.exe.config
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\bin\Debug\ExceptionsHandlingExc.exe
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\bin\Debug\ExceptionsHandlingExc.pdb
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\obj\Debug\ExceptionsHandlingExc.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\obj\Debug\ExceptionsHandlingExc.exe
+C:\Users\Vyara\Desktop\OOP\Exc\ExceptionsHandlingExc\ExceptionsHandlingExc\obj\Debug\ExceptionsHandlingExc.pdb

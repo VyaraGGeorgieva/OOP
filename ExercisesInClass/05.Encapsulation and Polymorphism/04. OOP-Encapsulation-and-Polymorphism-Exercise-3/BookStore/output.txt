@@ -1,0 +1,5 @@
+Book added
+Book added
+Book sold
+Goodbye!
+Total revenue: 5

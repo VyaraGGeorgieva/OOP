@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\bin\Debug\PlayWithTheDogs.exe.config
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\bin\Debug\PlayWithTheDogs.exe
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\bin\Debug\PlayWithTheDogs.pdb
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\obj\Debug\PlayWithTheDogs.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\obj\Debug\PlayWithTheDogs.exe
+C:\Users\Vyara\Desktop\OOP\Exc\DefiuningClassesExc\PlayWithTheDogs\obj\Debug\PlayWithTheDogs.pdb

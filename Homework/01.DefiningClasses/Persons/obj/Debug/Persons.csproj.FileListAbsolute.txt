@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\bin\Debug\Persons.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\bin\Debug\Persons.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\bin\Debug\Persons.pdb
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\obj\Debug\Persons.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\Persons\obj\Debug\Persons.pdb

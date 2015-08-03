@@ -1,0 +1,5 @@
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\LaptopShop\bin\Debug\LaptopShop.pdb
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\LaptopShop\obj\Debug\LaptopShop.pdb

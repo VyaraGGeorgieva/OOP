@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\bin\Debug\SquareRoot.cs.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\bin\Debug\SquareRoot.cs.exe
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\bin\Debug\SquareRoot.cs.pdb
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\obj\Debug\SquareRoot.cs.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\obj\Debug\SquareRoot.cs.exe
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\SquareRoot.cs\obj\Debug\SquareRoot.cs.pdb

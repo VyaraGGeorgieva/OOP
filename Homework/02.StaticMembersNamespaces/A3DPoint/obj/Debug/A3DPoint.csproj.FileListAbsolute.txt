@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\bin\Debug\A3DPoint.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\bin\Debug\A3DPoint.exe
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\bin\Debug\A3DPoint.pdb
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\obj\Debug\A3DPoint.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\obj\Debug\A3DPoint.exe
+C:\Users\Vyara\Desktop\OOP\HW\StaticMembersNamespaces\A3DPoint\obj\Debug\A3DPoint.pdb

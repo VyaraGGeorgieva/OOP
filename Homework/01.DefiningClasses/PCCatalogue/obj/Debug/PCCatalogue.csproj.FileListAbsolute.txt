@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\bin\Debug\PCCatalogue.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\bin\Debug\PCCatalogue.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\bin\Debug\PCCatalogue.pdb
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\obj\Debug\PCCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\obj\Debug\PCCatalogue.exe
+C:\Users\Vyara\Desktop\OOP\HW\DefiningClasses\PCCatalogue\obj\Debug\PCCatalogue.pdb

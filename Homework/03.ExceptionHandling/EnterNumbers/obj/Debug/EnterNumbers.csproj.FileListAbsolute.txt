@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+C:\Users\Vyara\Desktop\OOP\HW\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache

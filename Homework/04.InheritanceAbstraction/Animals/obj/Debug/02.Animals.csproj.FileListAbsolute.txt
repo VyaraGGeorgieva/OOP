@@ -1,0 +1,3 @@
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\Animals\bin\Debug\Animals.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\Animals\obj\Debug\Animals.exe
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\Animals\obj\Debug\Animals.pdb

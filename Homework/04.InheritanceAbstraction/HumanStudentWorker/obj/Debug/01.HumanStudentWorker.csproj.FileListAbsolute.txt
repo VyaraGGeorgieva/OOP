@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+C:\Users\Vyara\Desktop\OOP\HW\InheritanceAbstraction\HumanStudentWorker\obj\Debug\01.HumanStudentWorker.csprojResolveAssemblyReference.cache
